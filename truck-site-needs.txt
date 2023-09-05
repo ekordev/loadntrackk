@@ -1,0 +1,32 @@
+TABS
+
+    • Dashboard
+        ? Daily load revenue
+        ? Load Timeline
+        ? Recent loads
+            ? Started Time & Location Finished Time & Location
+        ? Map  showing current loads in transit 
+
+    • Load
+        ? List edit and create loads
+            ? Available loads 
+            ? Loads that need to be picked up 
+            ? Loads that are in transit
+            ? Loads that have been delivered 
+            ? Loads that need BOL
+            ? Loads that need a backhaul
+
+    • Drivers
+        ? List create and edit
+        ? show drivers information 
+        ? List of loads they’ve done 
+
+    • Brokers
+        ? List Create and edit 
+        ? show loads each broker has done when clicked on 
+
+    • GPS
+        ? When a load that has been tracked is clicked on it should open this page that will show the load in transit 
+          	
+                  		
+
